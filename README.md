@@ -8,7 +8,7 @@ I'm a Computer Science Engineering student with a passion for the latest tech in
 
 - 💼 I'm open to collaborations on Full Stack projects and anything related to Machine Learning. Let's build something amazing together!
 
-- 📫 Reach out to me on [LinkedIn]([https://www.linkedin.com/in/himanshu-khurana-a5a49326b/]) for professional inquiries and engaging conversations.
+- 📫 Reach out to me on [LinkedIn][https://www.linkedin.com/in/himanshu-khurana-a5a49326b/] for professional inquiries and engaging conversations.
 
 - 😄 Pronouns: He/Him
 
